@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/static/css/main.27971a45.css",
+    "main.js": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/static/js/main.4cc7a9d0.js",
+    "static/js/787.6132404a.chunk.js": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/static/js/787.6132404a.chunk.js",
+    "index.html": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/index.html",
+    "main.27971a45.css.map": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/static/css/main.27971a45.css.map",
+    "main.4cc7a9d0.js.map": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/static/js/main.4cc7a9d0.js.map",
+    "787.6132404a.chunk.js.map": "/VIT_MERN_INTERNSHIP_AXIOS_DISPLAY/static/js/787.6132404a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27971a45.css",
+    "static/js/main.4cc7a9d0.js"
+  ]
+}
